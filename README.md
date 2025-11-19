@@ -326,8 +326,6 @@ I'm always excited to discuss technology, collaborate on interesting projects, a
   
   [![GitHub Contribution Graph](https://github-contribution-stats.vercel.app/api?username=Shawcha20&theme=tokyonight)](https://github.com/Shawcha20)
   
-  ![Snake Animation](https://raw.githubusercontent.com/Shawcha20/Shawcha20/output/snake.svg)
-  
 </div>
 
 ---
@@ -337,5 +335,3 @@ I'm always excited to discuss technology, collaborate on interesting projects, a
 > *"Technology is the bridge between imagination and reality. By combining diverse fields of knowledge, we can create solutions that are greater than the sum of their parts."*
 
 ---
-
-*Last updated: November 19, 2025*
