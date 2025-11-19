@@ -338,9 +338,7 @@ I'm always excited to discuss technology, collaborate on interesting projects, a
 <div align="center">
   
   [![GitHub Contribution Graph](https://github-contribution-stats.vercel.app/api?username=Shawcha20&theme=tokyonight)](https://github.com/Shawcha20)
-  
-  ![Snake Animation](https://raw.githubusercontent.com/Shawcha20/Shawcha20/output/github-contribution-grid-snake.svg)
-  
+  ![Snake Animation](https://raw.githubusercontent.com/Shawcha20/Shawcha20/output/snake.svg)
 </div>
 ---
 
