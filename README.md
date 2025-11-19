@@ -4,6 +4,7 @@
 
 ### **Building Intelligent Systems That Solve Real-World Problems** 🚀
 
+![Profile Banner](https://raw.githubusercontent.com/Shawcha20/Shawcha20/images/banner.png)
 ---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Robotics+%26+Embedded+Systems+Engineer;Quantum+Computing+Researcher;Mobile+App+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
