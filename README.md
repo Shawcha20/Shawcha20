@@ -1,11 +1,23 @@
-# Hi there, I'm Mahamudul Islam Shawcha 👋
-
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Robotics+%26+Embedded+Systems+Engineer;Quantum+Computing+Researcher)](https://git.io/typing-svg)
 
-  **Building intelligent systems that solve real-world problems** 🚀
-  
+# 👋 Hi there, I'm Mahamudul Islam Shawcha
+
+### **Building Intelligent Systems That Solve Real-World Problems** 🚀
+
+---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Robotics+%26+Embedded+Systems+Engineer;Quantum+Computing+Researcher;Mobile+App+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
+
+---
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shawcha20)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_HANDLE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+
 </div>
 
 ---
@@ -325,7 +337,7 @@ I'm always excited to discuss technology, collaborate on interesting projects, a
 <div align="center">
   
   [![GitHub Contribution Graph](https://github-contribution-stats.vercel.app/api?username=Shawcha20&theme=tokyonight)](https://github.com/Shawcha20)
-  ![Snake Animation](https://raw.githubusercontent.com/Shawcha20/Shawcha20/output/snake.svg)
+  
 </div>
 
 ---
@@ -335,3 +347,5 @@ I'm always excited to discuss technology, collaborate on interesting projects, a
 > *"Technology is the bridge between imagination and reality. By combining diverse fields of knowledge, we can create solutions that are greater than the sum of their parts."*
 
 ---
+
+*Last updated: November 19, 2025*
